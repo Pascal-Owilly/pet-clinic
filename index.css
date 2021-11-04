@@ -1,0 +1,157 @@
+.logo{
+    border: 5px 5px solid;
+    border-color: grey;
+}
+
+.section1 > h1{
+    background-color: aquamarine;
+    font-size: 50px;
+    text-align: center;
+​
+}
+.clinic{
+    color: blue;;
+}
+.navbar > ul{
+    color: green;
+    list-style-type: none;
+    display: flex;
+    
+}
+.navbar > ul> li{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 700;
+​
+}
+​
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+    
+  }
+  
+  .fa-twitter { 
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+     .socialmedia{
+      padding: 20px;
+      float: right;
+      font-size: 50px;
+       position: absolute;
+       top: 200px; 
+       padding-top: 50px;
+      display: flex;    
+​
+      .years{
+          color: coral;
+​
+      }
+       .mainimage{
+        display: flex;
+        justify-content: space-evenly;
+    }
+       
+             .mainimage > h1 {
+          font-size: 60px;
+          text-align: center;
+          color: maroon;
+          
+        
+      }
+      .mainimage > h2{
+          font-size:50px ;
+          text-align: center;
+          color: magenta;
+          display: flex;
+​
+      }
+      .mainimage > p{
+          font-size: 20px;
+          text-align: center;
+      }
+
+      .section2{
+          margin: 0 auto;
+          padding: 10px;
+      }
+      .section2 > h1{
+          text-align: center;
+          font-size: 35px;
+      }
+    .info1{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;
+        
+​
+        
+    }
+    .section2{
+        background-color: blanchedalmond;
+        height: 400px;
+        width: 100%;
+        
+    }
+    .info{
+        display: flex ;
+        justify-content: space-evenly;
+    }
+    .info2{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;
+    }
+    .info2 clear {
+    }
+    .info3{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;Fsection3
+    }
+    .section3{
+        display: flex;
+        justify-content: space-evenly;
+        
+    }
+
+    .section3 > .button {
+        color: green;
+    }
+    .sec3info{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .funfact{
+        text-align: center;
+        color: #f1f1f1;
+        font-size: 45px;
+        font-weight: 700;
+        text-shadow: 3px 3px #2f8e92;
+    }
+    .section4{
+        color: yellow;
+        font-size: 40px;
+        font-weight: 500;
+
+        background-image: url('images/bcg2.jpg');
+        background-repeat: no-repeat;
+    }
+    .footer{
+
+    }
